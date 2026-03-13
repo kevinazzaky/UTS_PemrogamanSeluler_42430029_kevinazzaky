@@ -63,7 +63,7 @@ class GeneratorActivity : AppCompatActivity() {
             } else if (nilaiAkhir >= 60) {
                 statusKelas = "Cukup (C)"
             } else {
-                statusKelas = "Kurang (D/E)"
+                statusKelas = "Kurang (D)"
             }
 
             // --- LOGIKA 2 (PERULANGAN FOR) ---
